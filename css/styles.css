@@ -26,6 +26,12 @@ h1 {
   color: var(--accent);
   margin-bottom: 1.5rem;
 }
+.fullscreen-center {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
 /* ===============================
    GAMER LOADING SCREEN
 ================================ */
